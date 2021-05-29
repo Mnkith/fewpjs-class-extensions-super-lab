@@ -1,5 +1,5 @@
 # JavaScript Class Extension Lab: `super`
-
+ 
 ## Learning Goals
 
 - Practice using `super` to extend child class functionality
